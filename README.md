@@ -53,4 +53,4 @@ If you want to run the project locally or contribute:
 
 ## License
 
-ISC
+MIT LICENSE
