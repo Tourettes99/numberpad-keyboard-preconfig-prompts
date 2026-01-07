@@ -3,6 +3,20 @@
 ## Overview
 Prompter is a desktop application that turns your Numpad (and other keys) into a powerful, multi-page macro keyboard. It allows you to store text snippets ("prompts") and paste them into any application using global hotkeys.
 
+## Installation
+
+1.  **Download**: Navigate to the [Releases](https://github.com/Tourettes99/numberpad-keyboard-preconfig-prompts/releases) page of the repository.
+2.  **Install**: Download the latest `.exe` installer (e.g., `Numpad Prompter Setup 1.0.1.exe`) and run it.
+3.  **Launch**: The application will auto-launch after installation. You can also find it in your Start Menu.
+4.  **Permissions**: On first run, Windows may ask for permission to use accessibility features (required for global hotkey detection).
+
+## Getting Started
+
+1.  **Open the App**: You will see the main Dashboard with a default Profile.
+2.  **Bind a Key**: Click on a blank card (e.g., Numpad 1).
+3.  **Add Text**: Type the text you want to paste in the "Prompt content" box.
+4.  **Test It**: Open Notepad, press `Num 1` (or your bound key), and watch the text appear!
+
 ## Key Features
 
 ### 1. Profiles & Pages
@@ -67,3 +81,6 @@ The application is built with **Electron** and **React**.
 ### System Requirements
 -   **OS**: Windows (optimized), macOS, Linux.
 -   **Permissions**: Accessibility access may be required for global hotkey monitoring.
+
+
+license: MIT
