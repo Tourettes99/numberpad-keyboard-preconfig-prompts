@@ -14,7 +14,7 @@
 
 ### Installation
 
-1.  Download the latest installer from the [Releases](https://github.com/yourusername/numberpad-keyboard-preconfig-prompts/releases) page.
+1.  Download the latest installer from the [Releases]([https://github.com/yourusername/numberpad-keyboard-preconfig-prompts/releases](https://github.com/Tourettes99/numberpad-keyboard-preconfig-prompts/releases/tag/EXE)) page.
 2.  Run the installer (`Numpad Prompter Setup <version>.exe`).
 3.  Launch the application.
 
